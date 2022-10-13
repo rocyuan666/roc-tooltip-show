@@ -1,3 +1,9 @@
+/*
+ * @Author       : rocyuan
+ * @Email        : rocyuan666@163.com
+ * @Description  : rollup config
+ */
+
 const { terser } = require("rollup-plugin-terser");
 const { banner } = require("./banner");
 

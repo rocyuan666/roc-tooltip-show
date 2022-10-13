@@ -2,7 +2,7 @@
   * echarts tooltip 自动显示轮播
   * roc-show-tooltip v0.0.1
   * (c) 2022-2022 rocyuan
-  * email rocyuan666@163.com
+  * Email rocyuan666@163.com
   * Released under the MIT License.
   */
 (function (global, factory) {

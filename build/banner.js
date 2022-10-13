@@ -1,3 +1,9 @@
+/*
+ * @Author       : rocyuan
+ * @Email        : rocyuan666@163.com
+ * @Description  : rollup config
+ */
+
 const { name, version, author, license } = require("../package.json");
 
 const banner = 
@@ -5,7 +11,7 @@ const banner =
   * echarts tooltip 自动显示轮播
   * ${name} v${version}
   * (c) 2022-${new Date().getFullYear()} ${author}
-  * email rocyuan666@163.com
+  * Email rocyuan666@163.com
   * Released under the ${license} License.
   */`
 
