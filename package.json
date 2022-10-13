@@ -1,0 +1,30 @@
+{
+  "name": "roc-show-tooltip",
+  "version": "0.0.1",
+  "author": "rocyuan",
+  "license": "MIT",
+  "keywords": [
+    "echarts",
+    "tooltip",
+    "component",
+    "echarts tooltip",
+    "roc",
+    "rocyuan",
+    "rocyuan666"
+  ],
+  "description": "echarts tooltip auto show",
+  "main": "dist/rocShowTooltip.min.js",
+  "scripts": {
+    "lib": "rollup -c rollup.config.js"
+  },
+  "devDependencies": {
+    "@rollup/plugin-buble": "^1.0.0",
+    "rollup": "^3.1.0",
+    "rollup-plugin-terser": "^7.0.2"
+  },
+  "homepage": "https://github.com/rocyuan666/roc-show-tooltip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocyuan666/roc-show-tooltip.git"
+  }
+}
