@@ -9,15 +9,15 @@ const { banner } = require("./banner");
 
 const baseOutput = {
   dir: 'dist',
-  name: "rocShowTooltip",
-  entryFileNames: 'rocShowTooltip.js',
+  name: "rocTooltipShow",
+  entryFileNames: 'rocTooltipShow.js',
   format: "umd",
   banner,
   sourcemap: false,
   sourcemapExcludeSources: false
 }
 const minOutput = Object.assign({}, baseOutput, {
-  entryFileNames: 'rocShowTooltip.min.js',
+  entryFileNames: 'rocTooltipShow.min.js',
   plugins: [
     terser()
   ]

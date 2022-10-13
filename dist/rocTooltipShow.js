@@ -1,6 +1,6 @@
 /*!
   * echarts tooltip 自动显示轮播
-  * roc-show-tooltip v0.0.1
+  * roc-tooltip-show v0.1.0
   * (c) 2022-2022 rocyuan
   * Email rocyuan666@163.com
   * Released under the MIT License.
@@ -8,7 +8,7 @@
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :
-  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, global.rocShowTooltip = factory());
+  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, global.rocTooltipShow = factory());
 })(this, (function () { 'use strict';
 
   /**
