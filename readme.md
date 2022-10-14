@@ -6,6 +6,8 @@ echarts tooltip 自动展示，数据可视化项目鼠标不移动到图表上�
 
 ```bash
 npm install roc-tooltip-show
+or
+yarn add roc-tooltip-show
 ```
 
 ## 使用
