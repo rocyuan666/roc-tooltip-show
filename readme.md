@@ -1,5 +1,8 @@
 # roc-tooltip-show
 
+[![npm version](https://img.shields.io/npm/v/roc-tooltip-show.svg?logo=npm&style=flat-square)](https://www.npmjs.com/package/roc-tooltip-show)
+[![npm downloads](https://img.shields.io/npm/dt/roc-tooltip-show.svg?style=flat-square)](https://www.npmjs.com/package/roc-tooltip-show)
+
 echarts tooltip 自动展示，数据可视化项目鼠标不移动到图表上（无操作）也需要tooltip自动循环展示，只适用于echarts。
 
 ## 安装
